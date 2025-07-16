@@ -28,4 +28,3 @@ Langkah-langkah Penggunaan
 
 #### Untuk tutorial dalam bentuk video dapat dilihat di video berikut ini
 
-[![ESP32 Cam Tutorial](https://img.youtube.com/vi/llEWoaSOo_U/0.jpg)](https://youtu.be/llEWoaSOo_U "Click to Watch!")
